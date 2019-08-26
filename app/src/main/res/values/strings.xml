@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoviesFeed</string>
+    <string name="place_holder_name">Avengers Endgame</string>
+    <string name="place_holder_country">Unites States</string>
+</resources>
